@@ -101,18 +101,26 @@ Boxes
 .section{
     min-height: 100vh;
     background:var(--clr-neutral-1);
+    display: -webkit-box;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    -webkit-box-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+            align-items: center;
 }
 .section-center{
     width: 90vw;
     max-width: 73.125rem;
     padding: 2rem 0;
+    display: -webkit-box;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+            flex-direction: column;
+    -webkit-box-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+            align-items: center;
 }
 .box{
     max-width: 23.438rem;
@@ -147,9 +155,13 @@ Boxes
 @media screen and (min-width: 62rem){
     .section-center{
         width: 95vw;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+                flex-direction: row;
+        -webkit-box-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+                align-items: center;
     .box{
         max-width: 18.75rem;
     }
@@ -164,3 +176,4 @@ Boxes
 }
 
 
+}
