@@ -150,6 +150,7 @@ Boxes
         flex-direction: row;
         justify-content: center;
         align-items: center;
+        color: red;
     }
     .box{
         max-width: 18.75rem;
