@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://threecolumn-project.netlify.app/]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://threecolumn-project.netlify.app/)
 
 ## My process
 
@@ -56,14 +55,10 @@ i started recently so i care about everything :)
 
 
 ### Useful resources
-John Smilga : https://www.youtube.com/c/CodingAddict, https://www.udemy.com/user/janis-smilga-3/
+John Smilga : (https://www.youtube.com/c/CodingAddict), (https://www.udemy.com/user/janis-smilga-3/)
 
 
 ## Author
 
-- Website - [Dezső Derzsi](https://www.your-site.com)
-- Frontend Mentor - [@DeDe-code]https://www.frontendmentor.io/profile/DeDe-code/yourusername)
-
-
-## Acknowledgments
-John Smilga : https://www.youtube.com/c/CodingAddict, https://www.udemy.com/user/janis-smilga-3/
+- Website - [Dezső Derzsi]
+- Frontend Mentor - [@DeDe-code](https://www.frontendmentor.io/profile/DeDe-code/yourusername)
