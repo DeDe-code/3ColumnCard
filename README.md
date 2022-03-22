@@ -26,7 +26,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
+![](screenshot/screenShot-desktop.png)
 
 ### Links
 
