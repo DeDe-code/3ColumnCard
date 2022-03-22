@@ -124,7 +124,8 @@ Boxes
 }
 .box{
     max-width: 23.438rem;
-    padding: 2rem 2rem;
+    height: 470px;
+    padding: 4rem 2rem 2rem;
     box-shadow: var(--shadow);
 }
 .box-img-container{
